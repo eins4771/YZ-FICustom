@@ -1,0 +1,22 @@
+# Machine-local SDKs, credentials and generated output
+.tools/
+.setup/
+.vscode/settings.json
+.env
+.env.*
+!.env.example
+*.local
+*.log
+*.jks
+*.keystore
+android/local.properties
+**/local.properties
+**/.dart_tool/
+**/build/
+**/.pio/
+**/node_modules/
+web/dist/
+firmware/data/www/
+firmware/include/secrets.h
+.DS_Store
+Thumbs.db

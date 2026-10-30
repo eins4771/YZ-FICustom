@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "YZ-FICustom mobile",
+      "request": "launch",
+      "type": "dart",
+      "cwd": "${workspaceFolder}/mobile",
+      "program": "lib/main.dart"
+    }
+  ]
+}
