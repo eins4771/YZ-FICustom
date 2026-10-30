@@ -1,0 +1,14 @@
+{
+  "folders": [
+    { "name": "YZ-FICustom", "path": "." },
+    { "name": "ESP32 firmware", "path": "firmware" }
+  ],
+  "settings": {
+    "dart.projectSearchDepth": 4,
+    "files.exclude": {
+      "**/.dart_tool": true,
+      "**/.pio": true,
+      "**/node_modules": true
+    }
+  }
+}
